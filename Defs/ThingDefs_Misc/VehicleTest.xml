@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ThingDef name="Vehicle">
+		<ThingClass>VehicleLibrary.Vehicle</ThingClass>
+		<TickerType>Normal</TickerType>
+	</ThingDef>
+
+</Defs>

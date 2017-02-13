@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>VehicleLib</name>
+	<targetVersion>0.16.1393</targetVersion>
+    <author>Profugo Barbatus</author>
+    <description>
+		Testing Vehicle Framework
+	</description>
+</ModMetaData>

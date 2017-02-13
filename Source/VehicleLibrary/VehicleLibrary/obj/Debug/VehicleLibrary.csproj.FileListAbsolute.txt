@@ -1,0 +1,8 @@
+C:\Personal Projects\Vehicle Library\VehicleLibrary\VehicleLibrary\obj\Debug\VehicleLibrary.csprojResolveAssemblyReference.cache
+C:\Personal Projects\Vehicle Library\VehicleLibrary\VehicleLibrary\bin\Debug\VehicleLibrary.dll
+C:\Personal Projects\Vehicle Library\VehicleLibrary\VehicleLibrary\bin\Debug\VehicleLibrary.pdb
+C:\Personal Projects\Vehicle Library\VehicleLibrary\VehicleLibrary\bin\Debug\Assembly-CSharp.dll
+C:\Personal Projects\Vehicle Library\VehicleLibrary\VehicleLibrary\bin\Debug\HugsLib.dll
+C:\Personal Projects\Vehicle Library\VehicleLibrary\VehicleLibrary\bin\Debug\UnityEngine.dll
+C:\Personal Projects\Vehicle Library\VehicleLibrary\VehicleLibrary\obj\Debug\VehicleLibrary.dll
+C:\Personal Projects\Vehicle Library\VehicleLibrary\VehicleLibrary\obj\Debug\VehicleLibrary.pdb
