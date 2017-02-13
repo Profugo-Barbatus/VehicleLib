@@ -8,8 +8,6 @@ namespace VehicleLibrary
 {
     class VehicleGraphicSet
     {
-        
-        public GraphicData chassisGraphic;
 
         public VehicleGraphicSet(Vehicle vehicle)
         {
